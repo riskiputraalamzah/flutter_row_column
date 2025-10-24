@@ -1,3 +1,5 @@
-# flutter_application_1
 
-A new Flutter project.
+# Flutter - Tugas Layout (Row & Column)
+
+![Preview 1](preview.png)
+	
