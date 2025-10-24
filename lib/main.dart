@@ -64,7 +64,7 @@ class LatihanLayoutPage extends StatelessWidget {
           // Inilah kunci untuk distribusi merata (seperti justify-content: space-evenly)
           mainAxisAlignment: MainAxisAlignment.spaceEvenly,
           children: [
-            _buildBottomNavItem(icon: Icons.share, label: 'Share'),
+            _buildBottomNavItem(icon: Icons.share, label: 'Kirim'),
             _buildBottomNavItem(icon: Icons.call, label: 'Call'),
             _buildBottomNavItem(icon: Icons.calculate, label: 'Calculator'),
           ],
